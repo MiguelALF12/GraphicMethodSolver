@@ -17,7 +17,4 @@ def parseExcercises(excercises):
         restriction_index = excercises[restricciones_index].index(item)
         excercises[restricciones_index][restriction_index] = item.split('_')
 
-
-
-
-
+    #De ser necesario, hacer un retorno

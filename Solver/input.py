@@ -31,3 +31,15 @@ def input():
     open_csv()
     return saved_excercises
 
+"""
+-;-
+criterio;max
+objetivo;20000_p_+_15000_m
+restricciones;1_p_+_2_m_<=_80;3_p_+_2_m_<=_120
+-;-
+-;-
+criterio;max
+objetivo;58_a_+_90_b
+restricciones;50_a_+_80_b_<=_50000;1_a_+_1_b_<=_700
+-;-
+"""
