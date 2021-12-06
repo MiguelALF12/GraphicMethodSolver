@@ -42,4 +42,9 @@ criterio;max
 objetivo;58_a_+_90_b
 restricciones;50_a_+_80_b_<=_50000;1_a_+_1_b_<=_700
 -;-
+-;-
+criterio;max
+objetivo;150_a_+_300_b
+restricciones;8_a_+_2_b_<=_16;1_a_+_1_b_<=_5;2_a_+_1_b_<=20
+-;-
 """
