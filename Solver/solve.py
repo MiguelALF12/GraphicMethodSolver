@@ -1,5 +1,5 @@
 import re
-import sys
+from Solver.plots import *
 def standardized_restrictions(restriction):
 
     #Regular Expression here
@@ -178,3 +178,5 @@ def solve(excercises):
     print("\n")
     print("3. Evaluando el conjunto de soluciones y la posible solución optima en la función objetivo \n\t")
     eval_points(points_to_eval,excercises)
+    print("4. Visualización del conjunto de soluciones factibles y la solución optima \n\t")
+    make_plot(solution_points, optimal_solution)
