@@ -27,10 +27,5 @@ def make_plot(solution_points,optimal_solution):
         yop.append(item[1])
         plt.scatter(xop,yop,c="black")
 
-    plt.xlabel('x - axis')
-    # frequency label
-    plt.ylabel('y - axis')
-    # plot title
-    plt.title('RESTRICTIONS AND OPTIMAL SOLUTIONS')
     # function to show the plot
     plt.show()
