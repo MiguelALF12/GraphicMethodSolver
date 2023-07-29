@@ -7,13 +7,13 @@ The graphical method consists of representing the graphs associated with the equ
 
 ## HOW TO USE THE PROGRAM
 
-The program consist in the following steps:
+The program consist of the following steps:
 
-* Choose an excercise and put it into the Excercise.csv
-* Read the CSV file with a standardized text with <code>input()</code>
-* Parse the information saved from the read before with <code>ParseExcercises(reuturnOfInput())</code>
-* Call <code>solver(returnOfParseExcercises())</code>
-* Run the program
+1. Choose an excercise and put it into the Excercise.csv
+2. Read the CSV file with a standardized text with <code>input()</code>
+3. Parse the information saved from the read before with <code>ParseExcercises(reuturnOfInput())</code>
+4. Call <code>solver(returnOfParseExcercises())</code>
+5. Run the program
 
 ### SOME ADVICES FOR CSV FILES AND NEW EXCERCISES
 
