@@ -31,8 +31,3 @@ Every text must be like the following example: <br>
 Despite <i>criterio;max</i> does not have any functionality within the code, its a need to be given, this just for keep the structure of work defined.
 
 You will see another file called <i>Excercises.txt</i>. It contain other two differents examples. If you want to use them, choose one and copy/paste it in Excercises.csv .
-
-
-# CONTACT AND OTHERS
-Comments and improvements will be apprecciated. You can make the pull request, or if you dont, here I put some of my social profiles: <br>
-* email: <a href="mailto:miguel.lopez@utp.edu.co" target="_blank">Miguel Angel Lopez Fernández</a>
